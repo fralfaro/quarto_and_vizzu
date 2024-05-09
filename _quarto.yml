@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Vizzu in Quarto"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: quarto_min.qmd
+        text: Presentation
+
+format:
+  html:
+    theme: cosmo
+    css: custom.scss
+    toc: true
+
+
+

@@ -1,0 +1,18 @@
+---
+title: "About me"
+---
+
+::: columns
+::: {.column width="40%"}
+![](images/seba_avatar_gmail.png){fig-align="center"}
+:::
+::: {.column width="60%" .incremental}
+&#32;<br>
+
+* Sebastián Flores aka sebastiandres
+* Chief Data Officer en uPlanner
+* Miembro de Python Chile
+* Colaborador de Streamlit y Vizzu
+* Presentador compulsivo
+:::
+:::
