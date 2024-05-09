@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "quarto_min.html#explanation",
+    "href": "quarto_min.html#explanation",
+    "title": "Vizzu in Quarto",
+    "section": "Explanation",
+    "text": "Explanation\n\nInstall quarto\nInstall vizzu and other libraries required for graphs"
+  },
+  {
+    "objectID": "quarto_min.html#code-in-quarto",
+    "href": "quarto_min.html#code-in-quarto",
+    "title": "Vizzu in Quarto",
+    "section": "Code in quarto",
+    "text": "Code in quarto\n\nUse {python} to show code.\nUse {.python} to execute code."
+  },
+  {
+    "objectID": "quarto_min.html#example-1",
+    "href": "quarto_min.html#example-1",
+    "title": "Vizzu in Quarto",
+    "section": "Example 1",
+    "text": "Example 1\nIPyVizzu: Runs once, cannot execute again."
+  },
+  {
+    "objectID": "quarto_min.html#example-2",
+    "href": "quarto_min.html#example-2",
+    "title": "Vizzu in Quarto",
+    "section": "Example 2",
+    "text": "Example 2\nIPyVizzu Story: Can be played and replayed as the speaker needs."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "Sebastián Flores aka sebastiandres\nChief Data Officer en uPlanner\nMiembro de Python Chile\nColaborador de Streamlit y Vizzu\nPresentador compulsivo"
+  }
+]
