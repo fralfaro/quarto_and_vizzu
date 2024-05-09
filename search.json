@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "Sebastián Flores aka sebastiandres\nChief Data Officer en uPlanner\nMiembro de Python Chile\nColaborador de Streamlit y Vizzu\nPresentador compulsivo"
+  },
+  {
     "objectID": "quarto_min.html#explanation",
     "href": "quarto_min.html#explanation",
     "title": "Vizzu in Quarto",
@@ -26,12 +33,5 @@
     "title": "Vizzu in Quarto",
     "section": "Example 2",
     "text": "Example 2\nIPyVizzu Story: Can be played and replayed as the speaker needs."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About me",
-    "section": "",
-    "text": "Sebastián Flores aka sebastiandres\nChief Data Officer en uPlanner\nMiembro de Python Chile\nColaborador de Streamlit y Vizzu\nPresentador compulsivo"
   }
 ]
